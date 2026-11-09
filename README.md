@@ -19,16 +19,17 @@ What I care about: **proving the numbers are right.** Every pipeline I build is 
 
 | Project | What it shows |
 |---|---|
+| [Skills Gap Finder](https://github.com/TebeleloAnalytics/skills-gap-finder) | Embeddings, a Chroma vector database and RAG over the EU's ESCO skills data: finds a person's skills gaps for a target role, with **measured retrieval accuracy** and a FastAPI API |
 | [South African Language Identification](https://github.com/TebeleloAnalytics/south-african-language-identification-hack-2022) | NLP: classifies text into SA's 11 official languages, **99.8% accuracy** (TF-IDF + Naive Bayes) |
-| [Electricity Forecasting (SARIMA)](https://github.com/TebeleloAnalytics/electricity-forecasting-sarima) | Time-series forecasting (Honours research), **2.45% MAPE** |
+| [Electricity Forecasting (SARIMA)](https://github.com/TebeleloAnalytics/electricity-forecasting-sarima) | Time-series forecasting (Honours research project), **2.45% MAPE** |
 | [SQL Server Data Warehouse](https://github.com/TebeleloAnalytics/sql-data-warehouse-project) | Bronze/silver/gold ETL in T-SQL, star schema, data quality tests |
 
 ### 🧰 Tools
 
 **Python:** pandas, NumPy, scikit-learn, statsmodels, matplotlib, openpyxl, python-pptx, Jupyter
 **Data:** SQL Server (T-SQL), Power Query (M), Power BI, Excel
-**Cloud & AI:** Azure AI services, Git & GitHub
-**Learning now:** PostgreSQL, dbt, Airflow, Spark, Docker, embeddings and vector search
+**Cloud & AI:** Azure AI services, embeddings and semantic search, Chroma, RAG with the Claude API, FastAPI, Git & GitHub
+**Learning now:** PostgreSQL, dbt, Airflow, Spark, Docker
 **Data privacy:** POPIA-aware handling of customer data. No real customer data ever goes into my public repos.
 
 ### 🎓 Certifications
